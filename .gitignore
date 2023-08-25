@@ -1,3 +1,4 @@
+.DS_Store
 src/input
 src/output
 node_modules/

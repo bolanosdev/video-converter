@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "media-converter": "^1.1.7"    
+    "media-converter": "^1.1.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"

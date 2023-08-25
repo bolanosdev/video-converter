@@ -3,7 +3,7 @@ const fs = require('fs')
 const Path = require('path')
 
 const inputName = 'input.mov'
-const outputName = 'output.webm'
+const outputName = 'output.mp4'
 const inputFolder = Path.join(__dirname, 'input')
 const outputFolder = Path.join(__dirname, 'output')
 
